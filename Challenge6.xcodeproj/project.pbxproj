@@ -51,7 +51,7 @@
 		A89F0B482496F688002F22CC = {
 			isa = PBXGroup;
 			children = (
-				A89F0B532496F688002F22CC /* Duck-Shooter */,
+				A89F0B532496F688002F22CC /* Challenge6 */,
 				A89F0B522496F688002F22CC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -64,7 +64,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A89F0B532496F688002F22CC /* Duck-Shooter */ = {
+		A89F0B532496F688002F22CC /* Challenge6 */ = {
 			isa = PBXGroup;
 			children = (
 				A817ABD624983C1F00FC9CD0 /* Challenge6.entitlements */,
@@ -81,15 +81,15 @@
 				A89F0B6C2496F7A3002F22CC /* reload.wav */,
 				A89F0B6E2496F7A3002F22CC /* shot.wav */,
 			);
-			path = "Duck-Shooter";
+			path = Challenge6;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A89F0B502496F688002F22CC /* Duck-Shooter */ = {
+		A89F0B502496F688002F22CC /* Challenge6 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A89F0B692496F68A002F22CC /* Build configuration list for PBXNativeTarget "Duck-Shooter" */;
+			buildConfigurationList = A89F0B692496F68A002F22CC /* Build configuration list for PBXNativeTarget "Challenge6" */;
 			buildPhases = (
 				A89F0B4D2496F688002F22CC /* Sources */,
 				A89F0B4E2496F688002F22CC /* Frameworks */,
@@ -99,7 +99,7 @@
 			);
 			dependencies = (
 			);
-			name = "Duck-Shooter";
+			name = Challenge6;
 			productName = Challenge6;
 			productReference = A89F0B512496F688002F22CC /* Duck Shooter.app */;
 			productType = "com.apple.product-type.application";
@@ -119,7 +119,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A89F0B4C2496F688002F22CC /* Build configuration list for PBXProject "Duck-Shooter" */;
+			buildConfigurationList = A89F0B4C2496F688002F22CC /* Build configuration list for PBXProject "Challenge6" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -132,7 +132,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A89F0B502496F688002F22CC /* Duck-Shooter */,
+				A89F0B502496F688002F22CC /* Challenge6 */,
 			);
 		};
 /* End PBXProject section */
@@ -345,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A89F0B4C2496F688002F22CC /* Build configuration list for PBXProject "Duck-Shooter" */ = {
+		A89F0B4C2496F688002F22CC /* Build configuration list for PBXProject "Challenge6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A89F0B672496F68A002F22CC /* Debug */,
@@ -354,7 +354,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A89F0B692496F68A002F22CC /* Build configuration list for PBXNativeTarget "Duck-Shooter" */ = {
+		A89F0B692496F68A002F22CC /* Build configuration list for PBXNativeTarget "Challenge6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A89F0B6A2496F68A002F22CC /* Debug */,
