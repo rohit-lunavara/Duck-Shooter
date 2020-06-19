@@ -1,2 +1,4 @@
 # Duck-Shooter
-An iPad game where you shoot ducks. Works on macOS 10.15+.
+A game where you shoot ducks built using SpriteKit.
+
+Supports iPad (4:3 aspect ratio) and macOS (10.15+).
