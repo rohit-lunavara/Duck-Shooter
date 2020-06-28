@@ -30,6 +30,7 @@ Support for iPad (4:3 aspect ratio) and macOS (10.15+) using Mac Catalyst.
 
 # Future Scope
 
+- Support for other iPad sizes.
 - Save the game session when the app is terminated.
 - Add power-ups that you can shoot to gain an advantage during a level.
 - Add a pause feature.
