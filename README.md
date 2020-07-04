@@ -2,7 +2,7 @@
 
 A carnival themed arcade shooter made using SpriteKit programmatically from scratch.
 
-Support for iPad (4:3 aspect ratio) and macOS (10.15+) using Mac Catalyst.
+Support for iPad (4:3 aspect ratio) (13.0+) and macOS (10.15+) using Mac Catalyst.
 
 # Technologies and Frameworks Used :
 
